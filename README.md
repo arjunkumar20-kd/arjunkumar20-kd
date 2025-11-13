@@ -71,10 +71,10 @@ I enjoy turning ideas into visually appealing and meaningful digital experiences
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/arjunkumar20-kd" target="_blank">
+  <a href="[https://linkedin.com/in/arjunkumar20-kd](https://www.linkedin.com/in/arjun-kumar-05055930b)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:arjunk840095@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/arjunkumar20-kd" target="_blank">
